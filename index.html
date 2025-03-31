@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja de Modelos 3D do João</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Loja 3D</h1>
+        <div id="cart">🛒 <span id="cart-count">0</span></div>
+    </header>
+    
+    <main id="store">
+        <div class="product" data-id="1" data-name="Modelo 1" data-price="10">
+            <h2>Espada</h2>
+            <canvas id="viewer1"></canvas>
+            <p>R$100,00</p>
+            <button onclick="addToCart(1)">Adicionar ao Carrinho</button>
+        </div>
+        
+        <div class="product" data-id="2" data-name="Modelo 2" data-price="20">
+            <h2>Modelo 2</h2>
+            <canvas id="viewer2"></canvas>
+            <p>R$20,00</p>
+            <button onclick="addToCart(2)">Adicionar ao Carrinho</button>
+        </div>
+
+        <div class="product" data-id="3" data-name="Modelo 3" data-price="100">
+            <h2>Modelo corpo</h2>
+            <canvas id="viewer2"></canvas>
+            <p>R$20,00</p>
+            <button onclick="addToCart(2)">Adicionar ao Carrinho</button>
+        </div>
+        
+    </main>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128/examples/js/loaders/OBJLoader.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128/examples/js/loaders/MTLLoader.js"></script>
+    <script src="main.js"></script>
+</body>
+</html>
