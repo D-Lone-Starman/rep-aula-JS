@@ -5,7 +5,7 @@
 Projeto Final - E-commerce 3D
 
 Aluno: João Pedro Estrella Cordeiro
-Disciplina: Desenvolvimento Web
+Disciplina:javascript br
 Entrega: ProjetoFinal+Estrella.zip
 
 Resumo:
