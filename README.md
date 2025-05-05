@@ -32,7 +32,11 @@ Instruções:
 
 Github: https://github.com/seuusuario/ProjetoFinal+Sobrenome  
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Google Drive: https://drive.google.com/drive/folder/...
+=======
+Google Drive: https://drive.google.com/drive/folder/...
+>>>>>>> Stashed changes
 =======
 Google Drive: https://drive.google.com/drive/folder/...
 >>>>>>> Stashed changes
