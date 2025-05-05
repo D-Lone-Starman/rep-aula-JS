@@ -31,4 +31,8 @@ Instruções:
 - Recomendado usar Live Server ou `http-server` para carregar os modelos `.glb`.
 
 Github: https://github.com/seuusuario/ProjetoFinal+Sobrenome  
+<<<<<<< Updated upstream
 Google Drive: https://drive.google.com/drive/folder/...
+=======
+Google Drive: https://drive.google.com/drive/folder/...
+>>>>>>> Stashed changes
