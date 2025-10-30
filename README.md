@@ -30,13 +30,4 @@ Instruções:
 - Basta abrir o arquivo index.html em navegador moderno.
 - Recomendado usar Live Server ou `http-server` para carregar os modelos `.glb`.
 
-Github: https://github.com/seuusuario/ProjetoFinal+Sobrenome  
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-Google Drive: https://drive.google.com/drive/folder/...
-=======
-Google Drive: https://drive.google.com/drive/folder/...
->>>>>>> Stashed changes
-=======
-Google Drive: https://drive.google.com/drive/folder/...
->>>>>>> Stashed changes
+Github: https://github.com/D-Lone-Starman/rep-aula-JS 
